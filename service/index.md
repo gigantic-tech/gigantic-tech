@@ -1,6 +1,6 @@
 # 成都大瀚科技有限责任公司
 
-&nbsp; &nbsp;&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/"><font color=#3A9CF0 size=4>公司简介</font></a>&nbsp; &nbsp;<font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/service/">专业服务</a>&nbsp; &nbsp;</font>  <font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/contact/">联系方式</a>&nbsp; &nbsp;</font> 
+&nbsp; &nbsp;&nbsp; &nbsp;<font color=#3A9CF0 size=4>[公司简介](https://gigantic-tech.github.io/gigantic-tech/)</font></a>&nbsp; &nbsp;<font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/service/">专业服务</a>&nbsp; &nbsp;</font>  <font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/contact/">联系方式</a>&nbsp; &nbsp;</font> 
 
 > 在过往数年的软件项目中，我们摸索积累了自己的经验和优势！
   
