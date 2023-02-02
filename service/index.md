@@ -1,6 +1,6 @@
 # 成都大瀚科技有限责任公司
 
-&nbsp; &nbsp;&nbsp; &nbsp; [公司简介](https://gigantic-tech.github.io/gigantic-tech/) &nbsp; &nbsp;&nbsp; &nbsp;**[专业服务](https://gigantic-tech.github.io/gigantic-tech/service/">)** &nbsp; &nbsp;  &nbsp; &nbsp;[联系方式](https://gigantic-tech.github.io/gigantic-tech/contact/)&nbsp; &nbsp; 
+&nbsp; &nbsp;&nbsp; &nbsp; [公司简介](https://gigantic-tech.github.io/gigantic-tech/) &nbsp; &nbsp;&nbsp; &nbsp; **[专业服务](https://gigantic-tech.github.io/gigantic-tech/service/)** &nbsp; &nbsp;  &nbsp; &nbsp; [联系方式](https://gigantic-tech.github.io/gigantic-tech/contact/) &nbsp; &nbsp; 
 
 > 在过往数年的软件项目中，我们摸索积累了自己的经验和优势！
   
