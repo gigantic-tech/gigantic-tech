@@ -1,6 +1,6 @@
 # 成都大瀚科技有限责任公司
 
-<font color=#3A9CF0 size=4>&nbsp; &nbsp;&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/">公司简介</a>&nbsp; &nbsp;</font>|<font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/service/">专业服务</a>&nbsp; &nbsp;</font>  |<font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/contact/">联系方式</a>&nbsp; &nbsp;</font> 
+<font color=#3A9CF0 size=4>&nbsp; &nbsp;&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/">公司简介</a>&nbsp; &nbsp;</font><font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/service/">专业服务</a>&nbsp; &nbsp;</font>  <font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/contact/">联系方式</a>&nbsp; &nbsp;</font> 
 
 > 在过往数年的软件项目中，我们摸索积累了自己的经验和优势！
   
@@ -32,9 +32,9 @@
 具备丰富的航点飞行等功能，  
 为用户拓展、增强了飞行操控能力！  
 在项目开发中，  
-克服时间紧、缺乏资料等难点，  
-独立完成了从产品设计到编码的开发任务，  
-并且在不少功能上具备我们自己的创新探索！  
+克服了时间紧、缺乏资料等难点，  
+独立完成从产品设计到编码的开发任务，  
+并且在不少功能上进行了创新和探索！  
   
   
 <center>
