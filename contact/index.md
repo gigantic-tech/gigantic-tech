@@ -1,6 +1,6 @@
 # 成都大瀚科技有限责任公司
 
-<font color=#3A9CF0 size=4>&nbsp; &nbsp;&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/">公司简介</a>&nbsp; &nbsp;</font>|<font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/service/">专业服务</a>&nbsp; &nbsp;</font>  |<font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/contact/">联系方式</a>&nbsp; &nbsp;</font> 
+<font color=#3A9CF0 size=4>&nbsp; &nbsp;&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/">公司简介</a>&nbsp; &nbsp;</font><font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/service/">专业服务</a>&nbsp; &nbsp;</font>  <font color=#3A9CF0 size=4>&nbsp; &nbsp;<a href="https://gigantic-tech.github.io/gigantic-tech/contact/">联系方式</a>&nbsp; &nbsp;</font> 
   
   
   
